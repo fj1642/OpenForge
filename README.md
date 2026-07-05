@@ -1,4 +1,4 @@
-# Political Alpha Engine
+# Political Alpha Engine (OpenForge)
 
 **Macro trading signals derived from the language of politicians and central bankers — not what they say, but how they say it.**
 
